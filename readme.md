@@ -13,11 +13,6 @@ Here're some of the project's best features:
 -   Insane UI UX with smooth animations.
 -   Showing your city location and weather data with specific theme based on your IP address on page startup. (when you open weather app)
 
-<h2>💻 Built with</h2>
-[![My Skills](https://skillicons.dev/icons?i=js,gulp,sass,html)](https://skillicons.dev)
-Technologies used in the project:
+<h2>💻 Built with :</h2>
 
--   Pure JS
--   SCSS
--   GULP js
--   HTML
+[![My Skills](https://skillicons.dev/icons?i=js,gulp,sass,html)](https://skillicons.dev)
