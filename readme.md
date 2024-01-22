@@ -18,3 +18,7 @@ Here're some of the project's best features:
 [![My Skills](https://skillicons.dev/icons?i=js,gulp,sass,html)](https://skillicons.dev)
 
 <h2>💻 Quick overview</h2>
+
+
+https://github.com/SOBI-THE-GOD/SOBI-WEATHER/assets/142573869/91cb4c01-80e0-486c-88a1-110305107d44
+
