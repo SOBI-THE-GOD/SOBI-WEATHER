@@ -1,6 +1,6 @@
 <h1 align="center" id="title">SOBI WEATHER</h1>
 
-<p id="description">this project is wrote with pure js and styles developed with scss.</p>
+<p id="description">Weather App which shows you weather data for your desired city based on current real data</p>
 
 <h2>🧐 Features</h2>
 
